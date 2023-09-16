@@ -1,7 +1,7 @@
 {
-  "name": "astro-paper",
-  "version": "2.3.0",
-  "private": false,
+  "name": "dottlabs",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "astro check --watch & astro dev",
     "start": "astro dev",
